@@ -30,7 +30,7 @@ For pools that heavily weight one token over another, there is far less imperman
 
 Since each token in a pool can be traded with any other token in a pool, the number of trading pairs grows significantly with each additional token. By providing more trading pairs, pools are able to facilitate more swaps, giving them more opportunities to collect fees. 
 
-The number of trading pairs in a pool follows the combinations equation $$_nC_r = \frac{n!}{r!(n-r)!}$$. Where $$n$$​ is 2 and $$r$$​is the number of tokens in the pool.
+The number of trading pairs in a pool follows the combinations equation $$_nC_r = \frac{n!}{r!(n-r)!}$$. Where $$r$$​ is 2 and $$n$$​is the number of tokens in the pool.
 
 ![](<../../.gitbook/assets/Screen Shot 2021-10-08 at 2.16.03 PM.png>)
 
